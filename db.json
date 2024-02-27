@@ -1,11 +1,25 @@
 {
   "students": [
     {
-      "id": "46138",
-      "name": "John Doe",
-      "username": "johndoe",
-      "email": "johndoe@gmail.com",
+      "id": "1",
+      "name": "Abduhalil Shermatov",
+      "username": "abduhalilshermatov",
+      "email": "abduhalil24gmail.com",
       "group": "React N32"
+    },
+    {
+      "id": "2",
+      "name": "Rahmatillo Qahhorov",
+      "username": "rahmatilloqqahhorob",
+      "email": "rahmatillo96gmail.com",
+      "group": "React N45"
+    },
+    {
+      "id": "3",
+      "name": "Ahror Tolipov",
+      "username": "ahrortolipov",
+      "email": "ahror11gmail.com",
+      "group": "React N55"
     }
   ],
   "teachers": [
